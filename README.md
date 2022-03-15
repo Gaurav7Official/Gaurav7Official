@@ -1,3 +1,4 @@
+![alt text](https://pbs.twimg.com/profile_images/1503382575154298887/VAYMXH4p.png)
 - 👋 Hi, I’m @Gaurav7Official
 - 👀 I’m interested in {FRONT-END DEVELOPMENT}
 - 🌱 I’m currently learning {FULL-STACK}
